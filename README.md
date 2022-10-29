@@ -9,10 +9,4 @@ micheldemoraes/micheldemoraes is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Meu perfil</h1>
-
-<style>
-h1 {
-  font-size: 58px;
-}  
-</style>
+<h1 style="font-size: 48px">Meu perfil</h1>
